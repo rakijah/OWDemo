@@ -9,13 +9,14 @@ A tool for Counter-Strike: Global Offensive which allows you to find the unencry
 [3. Usage](#usage)  
 
 ## Dependencies
-You will need to have these things installed to run the application. If you're unsure whether or not you already have one of these installed, try running the application to see if an error message comes up.
-| Name        | Version | Website/Download link
-| :------------ |:------------|:-------------|
-| WinPcap      | 4.1.3 or higher | http://www.winpcap.org/ |
-| .NET Framework | 4.5.2 or higher | https://www.microsoft.com/en-us/download/details.aspx?id=42642 |
-| Microsoft Visual C++ 2010 Redistributable Package | x86 or x64 | [x86](http://www.microsoft.com/en-us/download/details.aspx?id=5555) or [x64](http://www.microsoft.com/en-us/download/details.aspx?id=14632) |
-| WinRAR (or similar to extract .bz2 files) | any | http://www.rarlab.com/ |
+You will need to have these things installed to run the application. If you're unsure whether or not you already have one of these installed, try running the application to see if an error message comes up.  
+
+| Name                                              | Version         | Website/Download link                                                                                                                       |
+|---------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| WinPcap                                           | 4.1.3 or higher | http://www.winpcap.org/                                                                                                                     |
+| .NET Framework                                    | 4.5.2 or higher | https://www.microsoft.com/en-us/download/details.aspx?id=42642                                                                              |
+| Microsoft Visual C++ 2010 Redistributable Package | x86 or x64      | [x86](http://www.microsoft.com/en-us/download/details.aspx?id=5555) or [x64](http://www.microsoft.com/en-us/download/details.aspx?id=14632) |
+| WinRAR (or similar to extract .bz2 files)         | any             | http://www.rarlab.com/                                                                                                                      |
 
 
 ## Installation

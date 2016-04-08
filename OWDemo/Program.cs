@@ -19,7 +19,6 @@ namespace OWDemo
             //Choose the network device to use and construct a sniffer instance
             Sniffer = new Sniffer(ChooseDevice());
             Sniffer.Start();
-
             //Do nothing while we are listening (until we have received the necessary packets)
             while (Sniffer.Running)
             {

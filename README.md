@@ -1,7 +1,7 @@
 # OWDemo
 A tool for Counter-Strike: Global Offensive which allows you to find the unencrypted demo of your Overwatch case.
 
-**Disclaimer**: *This tool was tested under Windows 7 64-Bit and is not guaranteed to work under other Windows versions.
+**Disclaimer**: *This tool was tested under Windows 7 64-Bit and is not guaranteed to work under other Windows versions.*
 
 ## Table of Contents  
 [1. Dependencies](#dependencies)  
